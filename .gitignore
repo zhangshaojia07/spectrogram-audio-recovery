@@ -1,0 +1,24 @@
+# Byte-compiled files and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# Local experiment data and generated demo files
+legacy/
+examples/demo.wav
+examples/out/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
